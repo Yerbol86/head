@@ -7,8 +7,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🌍  Я из города Астана
 *   ✉️  You can contact me at [esaranzhipov@gmail.com](mailto:esaranzhipov@gmail.com)
 *   🧠  я уже заканичаю изучать react
-*   🤝  Готов рассмотреть все интересные проекты<a href="https://www.twitter.com/esaranzhipov" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/esaranzhipov?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> 
+*   🤝  Готов рассмотреть все интересные проекты
+
+<a href="https://www.twitter.com/esaranzhipov" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/esaranzhipov?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a> 
  ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
